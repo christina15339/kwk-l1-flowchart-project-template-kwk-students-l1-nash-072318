@@ -22,9 +22,3 @@ body {
 p {
     font-family: "Sans-Serif",
 }
-
-.container {
-  position: relative; 
-  text-align: justify;
-  color: black;
-}
