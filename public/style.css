@@ -9,7 +9,7 @@ body {
   transform: translate(-50%, -50%);
 }
 
-h2 .container {
+h1 .container {
   position: relative; 
   text-align: center;
   color: black;
